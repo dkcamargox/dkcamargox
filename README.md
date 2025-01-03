@@ -7,3 +7,8 @@ In addition to my programming experience, I have a degree as an electronics tech
 Programming is not only my job, but also my hobby. I am completely enamored with the field and have worked on projects both in my technical studies and in college. I have even participated in renowned science fairs in my country, such as the Mostra de Projetos de Feliz and FBJC, and was a finalist in both.
 
 I am confident that my passion for programming and my diverse experience make me a valuable asset to your team. I would be honored to have the opportunity to show you who I am and the way I work. Thank you for considering my application.
+
+## Check out my other github accounts (that's where the action were happening before):
+
+- [dkcamargotz](https://github.com/dkcamargotz)
+- [dkcamargo](https://github.com/dkcamargo)
